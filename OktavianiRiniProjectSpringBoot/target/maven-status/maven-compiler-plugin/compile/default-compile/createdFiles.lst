@@ -1,0 +1,5 @@
+uas\project\maven\model\TabunganModel.class
+uas\project\maven\TabunganApplication.class
+uas\project\maven\dao\TabunganDao.class
+uas\project\maven\repository\TabunganRepository.class
+uas\project\maven\controller\TabunganController.class
